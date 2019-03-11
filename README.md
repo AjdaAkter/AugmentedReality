@@ -3,6 +3,6 @@ This repository include my project that is about augmented reality, presentation
 Eskişehir Osmangazi Univesity Formal Languages and Automata Project
 
 Team members:
--Rıza Berk Çayır
--Mustafa Görgülü
--Ajda Akter
+# Rıza Berk Çayır
+# Mustafa Görgülü
+# Ajda Akter
